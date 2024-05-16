@@ -25,8 +25,8 @@ Add a `data` folder to this repository once you have downloaded it. Add the give
 
 ```
 |--data
-  |--*CDFCollections240508csv* 
-  |--*Islas_General_GPS.shp* (and all the needed elements of shp)
+  |--CDFCollections240508csv 
+  |--Islas_General_GPS.shp (and all the needed elements of shp)
 ```
 
 ## Env
