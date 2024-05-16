@@ -20,6 +20,15 @@ This notebooks contains a *Clip* process to get only data contained in Galapagos
 
 ![raw](img/geodata_raw.png)
 
+## How to run
+Add a `data` folder to this repository once you have downloaded it. Add the given info for the technical test: 
+
+|--data
+  |--*CDFCollections240508csv* 
+  |--*Islas_General_GPS.shp* (and all the needed elements of shp)
+
+## Env
+Python environment 3.10 and *pandas*, *geopandas*, *plotly_express*
 
 ## Results (tables)
 
